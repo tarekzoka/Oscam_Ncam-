@@ -17,7 +17,7 @@ OSC_VERSION='11.695-emu-r798'
 NCM_VERSION='V11.9-r3'
 OSC_PACKAGE='enigma2-plugin-softcams-oscam'
 NCM_PACKAGE='enigma2-plugin-softcams-ncam'
-MY_URL='https://raw.githubusercontent.com/tarekzoka/Oscam_Ncam-/main/Oscam_Ncam/'
+MY_URL='https://raw.githubusercontent.com/tarekzoka/Oscam_Ncam-/main/Oscam_Ncam-/'
 
 ####################
 #  Image Checking  #
