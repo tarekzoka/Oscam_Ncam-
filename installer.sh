@@ -1,7 +1,3 @@
-
-
-
- 
 #!/bin/sh
 # ###########################################
 # SCRIPT : DOWNLOAD AND INSTALL Oscam_Ncam
@@ -175,3 +171,7 @@ esac
 rm -rf $TMPDIR/"${OSC_PACKAGE:?}"* $TMPDIR/"${NCM_PACKAGE:?}"* "$DIR"/installer.sh > /dev/null 2>&1
 
 exit 1
+
+
+
+ 
